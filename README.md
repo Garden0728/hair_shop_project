@@ -21,16 +21,6 @@ GUI를 통해 클릭으로 예약과 관리를 진행하며,
 <br/>
 <br/>
 
-# **프로젝트 파일설계**
-
-<br/>
-
-
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/jwgarde/hair_shop_project/assets/113418319/8468f5c3-30fc-4185-95c2-0a3336ff71c5" width="70%" style="max-width: 600px; border: 1px solid #ddd;">
-</div>
-<br/>
-<hr/>
 
 # **주요 기능 및 진척도 (Main Features & Progress)**
 
